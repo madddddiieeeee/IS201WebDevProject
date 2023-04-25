@@ -1,0 +1,87 @@
+.common{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.header{
+    background-color: rgb(220, 178, 220);
+    color: rebeccapurple;
+    height: 100px;
+    line-height: 100px ;
+
+}
+.nav{
+    background-color: ivory;
+    padding:10px ;
+    overflow: hidden;
+}
+.nav a {
+    float: left;
+    color: rebeccapurple;  
+    padding: 10px;
+    font-size: 16px ;
+    text-decoration: underline;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+.TS{
+   overflow: hidden;
+    background-color: rgb(220, 178, 220);
+    color:ivory;
+    text-align: center;
+    font-weight: bolder;
+}
+.favoritesongs{
+    text-align:left;
+    margin-left: 50px;
+}
+.TSPic{
+float: right;
+margin-left: 10px;
+margin-right:30px;
+}
+.BTS{
+    background-color:ivory;
+    color: rebeccapurple;
+    text-align: center;
+    padding-bottom: 50px;
+    font-family:serif
+}
+.tableauPlaceholder{
+    padding:30px ;
+}
+.AG{
+   overflow: hidden;
+    background-color: rgb(220, 178, 220);
+    color:ivory;
+    font-weight: bold;
+    text-align: center;
+}
+.AGPic{
+    float: left;
+    margin-right: 30px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+
+}
+.AGP{
+    padding: 30px;
+}
+.SKZ{
+   overflow: hidden;
+    background-color:ivory;
+    color: rebeccapurple;
+    text-align: center;
+
+}
+.SKZPic{
+    float: right;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+.footer{
+    background-color: rgb(220, 178, 220);
+    color: ivory;
+    padding: 20px;
+    font-weight: bold;
+}
